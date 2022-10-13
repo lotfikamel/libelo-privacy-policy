@@ -1,5 +1,23 @@
 {
   "dependencies": {
     "express": "^4.18.2"
-  }
+  },
+  "name": "libelo-privacy-policy",
+  "version": "1.0.0",
+  "main": "Server.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lotfikamel/libelo-privacy-policy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lotfikamel/libelo-privacy-policy/issues"
+  },
+  "homepage": "https://github.com/lotfikamel/libelo-privacy-policy#readme",
+  "description": ""
 }
